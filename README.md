@@ -1,8 +1,8 @@
-### Hi there, I'mm Ivan Sanchez 👋
+### Hi there, I'm Ivan Sanchez 👋
 
 ## I'm studying Computer Engineering
 
-- ⚡ I really like Software Development and technology
+- ⚡ I really like Software Development and Technology
 <!--
 **IvansanchezEspinoza2019/IvansanchezEspinoza2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Lenguajes and tools:
-
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
