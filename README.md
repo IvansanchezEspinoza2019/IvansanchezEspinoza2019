@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 ### Contactame!:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][https://www.linkedin.com/in/ivan-sanchez-espinoza]
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg"/>](https://www.linkedin.com/in/ivan-sanchez-espinoza)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/ivan-sanchez-espinoza)
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg"/>](https://www.facebook.com/ivan.sanchezespinoza.3)
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
