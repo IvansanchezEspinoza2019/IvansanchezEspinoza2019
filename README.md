@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Ivan Sanchez 👋
+
+### I'm studing Computer Engineering at Universidad de Guadalajara
+
+- 🔭 I’m currently working on Backend develoment at Talent-Network
 
 <!--
 **IvansanchezEspinoza2019/IvansanchezEspinoza2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
